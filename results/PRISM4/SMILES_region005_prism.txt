@@ -1,0 +1,4 @@
+Scaffold_1	O=C(N)CC1NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(N)CO)CC(=O)N)C(OC(=O)CNC1(=O))C)CC(=O)N
+,Scaffold_2	O=C(N)CC1NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(N)COC(=O)CNC1(=O))CC(=O)N)C(O)C)CC(=O)N
+,Scaffold_3	O=C(N)CC1NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)CNC1(=O))CO)CC(=O)N)C(O)C)CC(=O)N
+,Scaffold_4	O=C(O)CNC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(N)CO)CC(=O)N)C(O)C)CC(=O)N)CC(=O)N

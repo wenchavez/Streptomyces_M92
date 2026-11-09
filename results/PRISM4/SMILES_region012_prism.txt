@@ -1,0 +1,1 @@
+Scaffold_1	O=C(O)C5=C(O)C2=C(C=CC1=C(O)C=3C(=O)C4=C(O)C=C(O)C=C4(C(=O)C=3(C=C12)))C=C5(C)
